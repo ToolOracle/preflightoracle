@@ -1,0 +1,1 @@
+{"name":"Decision Preflight","description":"Pay before you act wrong — x402 decision gate for AI agents. go/caution/stop/insufficient_evidence in one call","category":"finance","tags":["x402","decision-gate","preflight","compliance","usdc","pay-per-call"],"tools":6,"transport":"streamable-http","endpoint":"https://tooloracle.io/x402/preflight/mcp/"}
