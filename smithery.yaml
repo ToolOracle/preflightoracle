@@ -1,0 +1,5 @@
+name: PreflightOracle
+description: Multi-framework compliance preflight — 10 tools
+endpoint: https://tooloracle.io/preflight/mcp/
+transport: streamable-http
+license: MIT
